@@ -1,5 +1,5 @@
 
-@media only screen and ( min-width : 300px )
+@media only screen and ( min-width : 300px ) and (max-width : 989px)
 {
     body {
         color: #333333;
@@ -95,7 +95,7 @@
     
     img {
         width: 400px;
-        height: 600px;
+        height: 550px;
     }
 
 }
@@ -121,7 +121,7 @@
     
     footer {
         color: #888888;
-        border-top: 1px solid #eeeeee;
+        border-top: 3px solid #eeeeee;
         padding: 16px 0;
         margin-top: 16px;
     }
@@ -166,5 +166,9 @@
         background: #888888;
         color: white;
         padding: 8px;
-    }   
+    } 
+    img {
+        width: 180px;
+        height: 250px;
+    }  
 }
