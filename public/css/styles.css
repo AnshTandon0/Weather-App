@@ -6,7 +6,7 @@
         font-family: Arial;
         max-width: 80%;
         max-height: 200px;
-        margin: 0 auto;
+        margin-top: 20px;
         padding: 0 80px;
         text-align: center;
     
@@ -38,15 +38,16 @@
     }
     
     h1 {
-        font-size: 64px;
+        font-size: 80px;
         margin-bottom: 16px;
     }
     
     header a {
         color: #888888;
         margin-right: 20px;
+        margin-top: 10dp;
         text-decoration: none;
-        font-size: 22px;
+        font-size: 30px;
     }
     
     .portrait {
@@ -56,28 +57,31 @@
     #message1 {
         margin-top: 50px;
         color: black;
-    }
-
-    #upper_text {
-        font-size: 24px;
-    }
-
-    #name {
-        font-size: 24px;
-    }
-    
-    #contact {
-        font-size: 24px;
+        font-size: 30px;
     }
 
     #message2 {
         color: black ;
+        font-size: 30px;
+    }
+
+    #upper_text {
+        font-size: 30px;
+    }
+
+    #name {
+        font-size: 30px;
+    }
+    
+    #contact {
+        font-size: 30px;
     }
     
     input {
-        border : 1px solid #cccccc ;
+        border : 3px solid #cccccc ;
         padding: 20px;
-        font-size: 18px;
+        font-size: 22px;
+        margin-top: 20px;
     }
     
     button {
@@ -86,7 +90,8 @@
         background: #888888;
         color: white;
         padding: 20px;
-        font-size: 18px;
+        font-size: 22px;
+        margin-top: 20px;
     }   
 
 }
