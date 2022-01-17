@@ -22,13 +22,11 @@
     
     footer {
         color: #474343;
-        border-top: 1px solid #eeeeee;
-        padding: 16px 0;
-        margin-top: 16px;
         text-align: center;
         position: absolute;
-        bottom: 50px;
-        align-self: center;
+        width: 80%;
+        bottom: 500px;
+        font-size: 22px;
     }
     
     header {
@@ -44,8 +42,8 @@
     
     header a {
         color: #888888;
-        margin-right: 20px;
-        margin-top: 10dp;
+        margin-right: 30px;
+        margin-top: 20dp;
         text-decoration: none;
         font-size: 30px;
     }
@@ -80,7 +78,7 @@
     input {
         border : 3px solid #cccccc ;
         padding: 20px;
-        font-size: 22px;
+        font-size: 25px;
         margin-top: 20px;
     }
     
@@ -90,7 +88,7 @@
         background: #888888;
         color: white;
         padding: 20px;
-        font-size: 22px;
+        font-size: 25px;
         margin-top: 20px;
     }   
 
